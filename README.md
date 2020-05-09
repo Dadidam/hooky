@@ -1,2 +1,1 @@
-# hooky
 react-hooks app
